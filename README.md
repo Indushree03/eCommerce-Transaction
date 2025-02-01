@@ -70,8 +70,8 @@ The dataset consists of three files:
 
 1. **Install Dependencies**:
    ```bash
-pip install -r requirements.txt
-Required libraries: pandas, scikit-learn, matplotlib, seaborn, jupyter.
+    pip install -r requirements.txt
+    Required libraries: pandas, scikit-learn, matplotlib, seaborn, jupyter.
 
 Prepare Data:
 
